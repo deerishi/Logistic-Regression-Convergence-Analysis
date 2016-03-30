@@ -1,0 +1,6 @@
+{
+  "name": "Logistic regression convergence analysis using Newton's Method.",
+  "tagline": "This code implements Logistic Regression using Newton's Method in Python.",
+  "body": "This code implements Logistic Regression using Newton's Method in Python. The plot below shows the convergence results on the objective function of Logistic Regression.\r\n\r\n![](https://github.com/deerishi/Logistic-Regression-Convergence-Analysis/blob/master/Objective%20Function.png?raw=True)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
